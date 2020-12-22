@@ -1,0 +1,81 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.logo {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+.contents01 {
+    width: 100%;
+}
+
+.contents02 {
+    width: 100%;
+}
+
+.contents03 {
+    width: 100%;
+}
+
+.contents04 {
+    position: relative;
+}
+
+.LINE {
+    position: absolute;
+    top: 90%;
+    left: 10%;
+}
+
+.contents1 {
+    width: 100%;
+}
+
+.button01 {
+    width: 90%;
+}
+
+.contents05 {
+    width: 100%;
+}
+
+
+
+
+
+
+
+.back_button {
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
